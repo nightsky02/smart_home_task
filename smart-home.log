@@ -1,0 +1,37 @@
+2026-10-21 11:11:36 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:11:36 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:12:48 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:16:11 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:17:48 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:17:48 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:18:40 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:18:40 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:19:33 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:19:33 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:20:38 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:20:38 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:20:38 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:21:31 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:21:31 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:21:31 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:22:42 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:22:42 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:22:42 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:24:14 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:24:14 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:24:14 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:25:49 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:25:49 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:25:49 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:27:57 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:27:57 ERROR c.b.s.controller.HomeController - Device 'LIGHT_03': exception occurred 'Device LIGHT_03 is offline'
+2026-10-21 11:27:57 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:27:57 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:28:53 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:28:53 ERROR c.b.s.controller.HomeController - Device 'LIGHT_03': exception occurred 'Device LIGHT_03 is offline'
+2026-10-21 11:28:53 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN or its form for 'Back Door Lock'.'
+2026-10-21 11:28:53 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 11:32:27 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 11:32:27 ERROR c.b.s.controller.HomeController - Device 'LIGHT_03': exception occurred 'Device LIGHT_03 is offline'
+2026-10-21 11:32:27 ERROR c.b.s.controller.HomeController - Device 'LOCK_02': exception occurred 'Incorrect PIN form for 'Back Door Lock'.'
+2026-10-21 11:32:27 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
